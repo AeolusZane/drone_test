@@ -1,1 +1,1 @@
-drone CI test2sd
+drone CI test2
