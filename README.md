@@ -1,1 +1,1 @@
-drone CI amend
+drone CI
